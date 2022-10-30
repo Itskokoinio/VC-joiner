@@ -1,4 +1,4 @@
-<h2 align="center">Discord Server: <a href="https://discord.gg/catcha">discord.gg/catcha</a></h2>
+<h2 align="center">Discord Server: <a href="https://discord.gg/eqzFR9ES">discord.gg/eqzFR9ES</a></h2>
 
 <h1>The code was made by Qoft</h1>
 
